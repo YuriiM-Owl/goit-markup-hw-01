@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-first homework html+scc GoIT
+first homework html GoIT
